@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/first-project/static/css/main.1efd811d.chunk.css",
+    "main.js": "/first-project/static/js/main.53307b54.chunk.js",
+    "main.js.map": "/first-project/static/js/main.53307b54.chunk.js.map",
+    "runtime-main.js": "/first-project/static/js/runtime-main.001afe9d.js",
+    "runtime-main.js.map": "/first-project/static/js/runtime-main.001afe9d.js.map",
+    "static/js/2.716722f9.chunk.js": "/first-project/static/js/2.716722f9.chunk.js",
+    "static/js/2.716722f9.chunk.js.map": "/first-project/static/js/2.716722f9.chunk.js.map",
+    "index.html": "/first-project/index.html",
+    "precache-manifest.7aea4b1ecda134e580c9f79370526e6f.js": "/first-project/precache-manifest.7aea4b1ecda134e580c9f79370526e6f.js",
+    "service-worker.js": "/first-project/service-worker.js",
+    "static/css/main.1efd811d.chunk.css.map": "/first-project/static/css/main.1efd811d.chunk.css.map",
+    "static/js/2.716722f9.chunk.js.LICENSE.txt": "/first-project/static/js/2.716722f9.chunk.js.LICENSE.txt",
+    "static/media/Pad-Thai-Recipe-1.jpg": "/first-project/static/media/Pad-Thai-Recipe-1.bd3513f9.jpg",
+    "static/media/Som tam.jpg": "/first-project/static/media/Som tam.a3662c77.jpg",
+    "static/media/banana pancake.webp": "/first-project/static/media/banana pancake.927a87a6.webp",
+    "static/media/food_pic.jpg": "/first-project/static/media/food_pic.d9fdc6c6.jpg",
+    "static/media/gai tod.webp": "/first-project/static/media/gai tod.17a116ba.webp",
+    "static/media/khao neeo mamuang.jpg": "/first-project/static/media/khao neeo mamuang.9549905a.jpg",
+    "static/media/moo ping.jpg": "/first-project/static/media/moo ping.0bb8f0a7.jpg",
+    "static/media/pad krapow.jpg": "/first-project/static/media/pad krapow.12e279b3.jpg",
+    "static/media/pad see ew.jpg": "/first-project/static/media/pad see ew.13926114.jpg",
+    "static/media/panang-curry.png": "/first-project/static/media/panang-curry.6bce71e5.png",
+    "static/media/thai red curry.jpg": "/first-project/static/media/thai red curry.dec1c581.jpg",
+    "static/media/thai-fried-rice.jpg": "/first-project/static/media/thai-fried-rice.b3f8d8a4.jpg",
+    "static/media/yum woon sen.jpg": "/first-project/static/media/yum woon sen.56892461.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.001afe9d.js",
+    "static/js/2.716722f9.chunk.js",
+    "static/css/main.1efd811d.chunk.css",
+    "static/js/main.53307b54.chunk.js"
+  ]
+}
