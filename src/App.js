@@ -614,7 +614,7 @@ function PanangCurry() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/first-project">
       <div>
         <Menu></Menu>
         <img className="cover" src={foodPicture}></img>
@@ -624,7 +624,6 @@ function App() {
               <Route exact path="/">
                 <Home />
               </Route>
-              <Redirect from="/first-project" to="/" />
               {recipies.map(recipe =>
                 <Route path={recipe.link}>
                   <RecipePage {...recipe}></RecipePage>
