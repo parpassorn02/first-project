@@ -3,7 +3,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  Link,
+  Redirect
 } from "react-router-dom";
 import foodPicture from './img/food_pic.jpg';
 import './App.css';
@@ -623,6 +624,7 @@ function App() {
               <Route exact path="/">
                 <Home />
               </Route>
+              <Redirect from="/first-project" to="/" />
               {recipies.map(recipe =>
                 <Route path={recipe.link}>
                   <RecipePage {...recipe}></RecipePage>
